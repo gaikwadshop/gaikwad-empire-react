@@ -1,6 +1,7 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import { motion } from "framer-motion";
 import { Flame } from "lucide-react";
+
 
 export default function GaikwadEmpire() {
   const spiceLevels = ["Lemon Herb", "Mild", "Medium", "Hot", "Extra Hot"];
